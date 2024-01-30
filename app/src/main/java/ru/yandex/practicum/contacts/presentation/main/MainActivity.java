@@ -25,7 +25,7 @@ import java.util.Set;
 import ru.yandex.practicum.contacts.R;
 import ru.yandex.practicum.contacts.databinding.ActivityMainBinding;
 import ru.yandex.practicum.contacts.model.ContactType;
-import ru.yandex.practicum.contacts.presentation.filter.FilterContactTypeDialogFragment;
+import ru.yandex.practicum.contacts.presentation.main.filter.FilterContactTypeDialogFragment;
 import ru.yandex.practicum.contacts.presentation.sort.SortDialogFragment;
 import ru.yandex.practicum.contacts.presentation.main.model.MenuClick;
 import ru.yandex.practicum.contacts.presentation.sort.model.SortType;
