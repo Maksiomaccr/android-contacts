@@ -1,4 +1,4 @@
-package ru.yandex.practicum.contacts.presentation.filter;
+package ru.yandex.practicum.contacts.presentation.main.filter;
 
 import androidx.lifecycle.MutableLiveData;
 
@@ -12,8 +12,8 @@ import java.util.stream.Collectors;
 
 import ru.yandex.practicum.contacts.model.ContactType;
 import ru.yandex.practicum.contacts.presentation.base.BaseBottomSheetViewModel;
-import ru.yandex.practicum.contacts.presentation.filter.model.FilterContactType;
-import ru.yandex.practicum.contacts.presentation.filter.model.FilterContactTypeUi;
+import ru.yandex.practicum.contacts.presentation.main.filter.model.FilterContactType;
+import ru.yandex.practicum.contacts.presentation.main.filter.model.FilterContactTypeUi;
 import ru.yandex.practicum.contacts.utils.model.ContactTypeUtils;
 import ru.yandex.practicum.contacts.utils.model.FilterContactTypeUtils;
 
